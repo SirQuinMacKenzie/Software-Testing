@@ -1,1 +1,4 @@
 # Software-Testing
+Testing is a large part of the development process and should be implemented at all steps of the SDLC. It can ensure that your code is functional and secure, although well-defined requirements are needed to capture more complex errors or failure conditions.
+Keeping that in mind, user needs must be considered when writing the requirements to ensure the functions' overall usefulness. The developer has to know what the user will require, how they will need to interact with the system, and what interactions will need to be limited or controlled, such as verifying valid input formats.
+In my approach to designing software, the focus needs to be on balancing efficiency and caution, aiming to limit errors in my work and keep an open perspective to develop functional and secure code. Managing expectations, recognizing my biases, and using my other developers and team for feedback will be the main resources in my arsenal to meet this goal.
